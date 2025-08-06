@@ -109,7 +109,3 @@ Para aprimorar ainda mais este projeto e a capacidade preditiva, sugere-se os se
 - **Monitoramento Contínuo**: Estabelecer um processo de monitoramento da performance do modelo em produção, garantindo que ele continue relevante e preciso ao longo do tempo, e retreiná-lo periodicamente com novos dados.
 - **Análise de Custo-Benefício**: Realizar uma análise aprofundada do custo-benefício das estratégias de retenção propostas, quantificando o impacto financeiro da redução do churn.
 
----
-
-*Este README foi gerado por Manus AI.*
-
